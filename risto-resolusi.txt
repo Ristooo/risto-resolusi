@@ -2,3 +2,5 @@ RISTO RESOLUSI
 - Konsisten belajar GitHub
 - Membuat Project kelompok
 - Mengerjakan tugas dari dosen
+- main game
+- main futsal
